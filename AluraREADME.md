@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AllBooks
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
@@ -71,3 +72,7 @@ E então, adicionar este mesmo token ao header das próximas requisições:
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
+=======
+# alurabooks
+Projeto para estudo de metodologia DevOps
+>>>>>>> dcda03c9d9eeee8810325bcf7ffd769b4d4787f0
